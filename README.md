@@ -50,17 +50,34 @@ Ketika pengguna ingin mengubah atau mengedit nama, nomor telepon, maupun email s
 <img width="773" height="551" alt="image" src="https://github.com/user-attachments/assets/30c1b3df-a229-439e-ae8d-1d6e7ad98e30" />
 
 
-Disini saya hanya mengganti 2 angka terakhir dalam nomor telepon peserta bernama Afif.
+Disini saya hanya mengganti 2 angka terakhir dalam nomor telepon peserta bernama Afif. Untuk melihat daftar peserta yang telah diperbarui dapat memasukkan opsi 2 lihat peserta kembali.
+
+<img width="774" height="391" alt="image" src="https://github.com/user-attachments/assets/26b8fffc-2a9b-4afc-ba54-644f3935a2dd" />
+
 
 ## 4. Opsi Hapus Data Peserta
 
-Data peserta juga dapat dihapus hanya dengan memasukkan nomor 4 dan nomor peserta sesuai dengan daftar peserta.
+Data peserta juga dapat dihapus hanya dengan memasukkan nama peserta sesuai dengan daftar peserta.
+
+<img width="768" height="435" alt="image" src="https://github.com/user-attachments/assets/da25190b-4568-4ff3-8a91-aa4ddba03397" />
+
+Dapat terlihat data peserta Aliyah telah terhapus.
+
+<img width="764" height="232" alt="image" src="https://github.com/user-attachments/assets/8255a6b1-cc43-4213-876d-319fded6bb68" />
 
 
+## 5. Opsi Cari Peserta
 
-Untuk memastikan terhapusnya data, dapat dicek kembali pada opsi 2 yaitu lihat daftar peserta.
+Data peserta dapat dicari dengan memasukkan nama peserta yang ingin dicari. Lalu, nanti program akan menampilkan data peserta tersebut.
 
+<img width="768" height="206" alt="image" src="https://github.com/user-attachments/assets/940a1c9a-e3e9-49b9-b5c3-cb4e601e7ff4" />
 
-## 5. Opsi Hapus Data Peserta
+Kalau nama yang dicari tidak terdaftar program akan menampilkan pesan "Pengguna tidak ditemukan.".
 
-Setelah selesai melakukan pendaftaran, peserta dapat langsung keluar dari program dengan memasukkan angka 5.
+<img width="479" height="77" alt="image" src="https://github.com/user-attachments/assets/5d5b7816-a1c0-4882-98d3-b5c477373663" />
+
+## 6. Opsi Keluar
+
+Setelah selesai melakukan pendaftaran, peserta dapat langsung keluar dari program dengan memasukkan angka 6. Maka, pengguna akan keluar dari program.
+
+<img width="556" height="75" alt="image" src="https://github.com/user-attachments/assets/b33234e4-fbe9-4c87-b334-028dd7f64b11" />
